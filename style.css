@@ -1,0 +1,173 @@
+#shapka{
+	margin-left: 170px;
+    background-color: #0A122A; /* Цвет фона слоя */
+    width:1160px;
+    height:160px}
+
+#rejim{
+	color: white;
+	margin-left: 430px;
+	margin-top: 0px;
+    font-size:17px;
+    font-style:italic}
+
+#tel{
+    color: white; 
+	margin-left: 10px;
+	margin-top:10px;  
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 180px; /* Ширина слоя */
+    height:50px;
+    float: left /* Обтекание по правому краю */}
+
+#tel1{ 
+ 	margin-right: 5px;
+ 	font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size:20px;
+    font-style:italic}
+
+#tel2{ 
+	margin-right: 5px;
+ 	font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size:20px;
+    font-style:italic}
+
+#nazvanie{
+    padding: 5px; /* Поля вокруг текста */
+    width: 400px; /* Ширина слоя */
+    height:130px;
+    float: left; /* Обтекание по правому краю */}
+
+#register{
+	margin-left:250px;
+    font-size:17px;
+    font-style:italic}
+
+#voyti{
+	margin-left: 30px;
+    font-size:17px;
+    font-style:italic}
+
+#vhod{
+	color: white;
+	float: bottom
+    width: 70px; /* Ширина слоя */
+    height:30px;}    
+
+#korzina{
+	color: white;
+	margin-top: 10px;
+	margin-left: 850px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size:15px;
+    font-style:italic}
+
+#topmenu{
+    font-family:'Times New Roman', Times, serif;
+	font-weight:bold;
+	margin-top:20px;}
+
+#glav{
+	float: left;
+    font-size:19px}
+
+#skidki{
+	float: left;
+    font-size:19px;
+    margin-left: 60px}
+
+#kontakt{
+	float: left;
+    font-size:19px;
+    margin-left:60px;}
+
+a h4{
+	color: #070B19; /* Цвет обычной ссылки */ 
+    text-decoration: none; }
+a:hover h4{    
+	color:  #980E0E; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */}
+
+a h3{
+    margin-top: 10px;
+	border: 2px solid white;
+    width: 153px; /* Ширина слоя */
+    height:40px;
+	background: linear-gradient(to top, #97E82E, #088224);
+    color: white;
+    text-decoration: none;}
+a:hover h3{
+	background: linear-gradient(to bottom, #A7ABA1, black);    
+	color: #980E0E;
+    border: 2px solid  #980E0E;}
+
+a h5{  
+	margin: 0;
+    padding: 0;
+	color: white;  
+    text-decoration: none; }
+a:hover h5{    
+	color:  #980E0E;   
+    text-decoration: underline; /* Добавляем подчеркивание */}    
+
+#tabl{
+	text-decoration: inherit}  
+	  
+#tablica{
+	float: right;
+	font-family: Arial, sans-serif;
+    background-color: #0A122A;
+	width: 140px; /* Ширина слоя */
+    height:700px;
+	margin-top: 70px;
+	margin-right: 110px;}
+
+#karta{
+	color: black;
+	float: right;
+    margin-right: 180px;
+	margin-top: 0px;
+	width: 800px; 
+    height:600px;} 
+
+#karta2{
+	font-family: Arial, sans-serif;
+	font-size:19px;
+	background-color: #0A122A;
+    margin-right: 280px;
+	margin-top: 70px;
+	width: 240px; 
+    height:800px;
+margin-left: 50px}
+
+#sz{
+	margin-left: 100px}
+
+#ProFit{
+	font-weight:bold;
+	color:#BA2D2D;
+    font-size:20px;
+    font-style:italic}
+
+#brend{
+	margin-left: 40px;
+	margin-top: 30px;
+	font-weight:bold;
+	color:#716F6F;
+    font-size:20px;
+    font-style:italic}
+#reg{
+    color: white;
+    text-decoration: inherit}
+#vh{
+	color: white;
+    text-decoration: inherit}
+#inf{margin-top: 150px}
+
+.container {
+  min-width: 1200px;
+}
